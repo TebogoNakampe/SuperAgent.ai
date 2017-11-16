@@ -4,7 +4,7 @@ This Project was inspired by UNITY Technologies Q-GridWorld Project:
 https://github.com/Unity-Technologies/Q-GridWorld
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/TebogoNakampe/SuperAgent.ai/issues/1">
+  <img width="460" height="300" src="https://github.com/TebogoNakampe/SuperAgent.ai/blob/master/Capture.PNG">
 </p>
 
 
